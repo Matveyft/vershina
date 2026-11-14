@@ -215,7 +215,6 @@ h2 { font-size: clamp(1.5rem, 3vw, 2.2rem); margin-bottom: 14px; }
 }
 .card h3 { font-size: 1.12rem; margin-bottom: 10px; }
 .card p { color: var(--muted); font-size: .95rem; }
-.card--accent { border-color: #2b6b5f; background: linear-gradient(160deg, var(--card), #12241f); }
 
 .card__head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; }
 .card__meta { font-family: var(--font-mono); font-size: .78rem; margin-top: 12px; color: var(--accent) !important; }
